@@ -1,4 +1,4 @@
-# 🎥 AI-Streamer-Vtuber (Project Jaeison - OpenAI Edition)
+# 🎥 AI-Streamer-Vtuber (Project Glitchii - OpenAI Edition)
 
 Phiên bản cập nhật sử dụng **OpenAI API** thay cho **Grok**, tối ưu hóa pipeline tương tác thời gian thực giữa **Chat → AI → TTS → Vtuber Model**.
 
