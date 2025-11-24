@@ -6,6 +6,7 @@ Bot này mô phỏng một AI Streamer độc lập, có thể nói chuyện, ph
 <img width="731" height="306" alt="image" src="https://github.com/user-attachments/assets/d6de0d96-e4cc-4236-b86e-93ac28c30fe8" />
 
 🚀 Tính năng chính
+
 🎤 1. Discord AI Streamer (persona Glitchii)
 
 Bot trả lời khi được tag trong Discord.
