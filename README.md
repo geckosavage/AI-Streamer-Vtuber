@@ -1,4 +1,5 @@
-✨ Glitchii AI Streamer Bot
+✨ Glitchii AI Streamer
+
 Discord Bot + YouTube Webhook + RAG + Groq LLaMA + Xenova Embedding + VoiceVox TTS + Subtitle + VB-Cable + VTube Studio
 
 Bot này mô phỏng một AI Streamer độc lập, có thể nói chuyện, phản hồi, tạo giọng, tạo phụ đề, phát âm thanh qua VB-Cable để đưa vào OBS và đồng bộ với avatar Vtuber trong VTube Studio.
@@ -194,6 +195,7 @@ retrieveKnowledge()	Lấy context từ ChromaDB
 voicevoxTTS()	Sinh audio bằng VoiceVox
 playVB()	Phát WAV vào VB-Cable
 processYTQueue()	Xử lý hàng đợi YouTube chat
+
 ✔ Ưu điểm
 
 Phản hồi tự nhiên, cảm xúc như streamer thật.
