@@ -4,6 +4,7 @@ Discord Bot + YouTube Webhook + RAG + Groq LLaMA + Xenova Embedding + VoiceVox T
 Bot này mô phỏng một AI Streamer độc lập, có thể nói chuyện, phản hồi, tạo giọng, tạo phụ đề, phát âm thanh qua VB-Cable để đưa vào OBS và đồng bộ với avatar Vtuber trong VTube Studio.
 
 <img width="731" height="306" alt="image" src="https://github.com/user-attachments/assets/d6de0d96-e4cc-4236-b86e-93ac28c30fe8" />
+
 🚀 Tính năng chính
 🎤 1. Discord AI Streamer (persona Glitchii)
 
