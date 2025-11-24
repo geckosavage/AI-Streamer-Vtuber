@@ -3,7 +3,7 @@ import requests
 import time
 
 BACKEND_URL = "http://localhost:3030/youtube-chat"   # Node.js endpoint
-VIDEO_ID = "5nHR00j9Wgg"
+VIDEO_ID = ""
 
 def send_chat_to_node(author, message):
     data = {
@@ -39,3 +39,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
